@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "メロン", "price": 900, "inventory": 2},
+  {"id": 2, "title": "すいか", "price": 300, "inventory": 10},
+  {"id": 3, "title": "ミカン", "price": 200, "inventory": 5}
+]
